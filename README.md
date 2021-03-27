@@ -8,5 +8,5 @@ The main of the project is to equally distribute different customers in a queue 
 The structure of an input file consists of: 
 1. Number of available queues
 2. Time of opening the queue
-3. Arrival Time
-4. Time taken to end his task
+3. Customer Arrival Time
+4. Time taken to end a customer's task
